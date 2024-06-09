@@ -1,1 +1,2 @@
-# FIR-filter-main
+# FIR-Filter
+VLSI Implementation of Finite Impulse Response Filters
